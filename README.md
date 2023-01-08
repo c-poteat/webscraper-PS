@@ -2,7 +2,7 @@
 
 ## Description
 
-This project was created to scape motivational quote images from a website under the .png file extension.
+This project was created to scape motivational quote images from a website under the .png file extension. Was not able to use Gmail or Yahoo email providers as less secure connections were blocked. As a result utilized mail.com email to complete this project.
 
 ## Getting Started
 
