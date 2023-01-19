@@ -14,6 +14,8 @@ This project was created to scape motivational quote images from a website under
 
 Download VSCode and run the function by typing the file name in the terminal. Make sure you are in the current working directory.
 
+[Source Code](https://github.com/c-poteat/webscraper-PS/blob/main/src/webscraper.ps1)
+
 ## Authors
 
 Carnell
