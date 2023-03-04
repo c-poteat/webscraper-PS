@@ -1,4 +1,6 @@
 # PowerShell Scraper
+![image](https://user-images.githubusercontent.com/92267723/222876069-427096e9-a0b4-4a07-8b7b-ebcca10b52f0.png)
+
 
 ## Description
 
